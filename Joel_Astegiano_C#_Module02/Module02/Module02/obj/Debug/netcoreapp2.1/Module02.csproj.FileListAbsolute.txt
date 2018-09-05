@@ -1,0 +1,11 @@
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\obj\Debug\netcoreapp2.1\Module02.csprojAssemblyReference.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\obj\Debug\netcoreapp2.1\Module02.csproj.CoreCompileInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\obj\Debug\netcoreapp2.1\Module02.AssemblyInfoInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\obj\Debug\netcoreapp2.1\Module02.AssemblyInfo.cs
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\bin\Debug\netcoreapp2.1\Module02.deps.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\bin\Debug\netcoreapp2.1\Module02.runtimeconfig.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\bin\Debug\netcoreapp2.1\Module02.runtimeconfig.dev.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\bin\Debug\netcoreapp2.1\Module02.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\bin\Debug\netcoreapp2.1\Module02.pdb
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\obj\Debug\netcoreapp2.1\Module02.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module02\Module02\Module02\obj\Debug\netcoreapp2.1\Module02.pdb
