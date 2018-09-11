@@ -1,0 +1,11 @@
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module03.csprojAssemblyReference.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module03.csproj.CoreCompileInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module03.AssemblyInfoInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module03.AssemblyInfo.cs
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\bin\Debug\netcoreapp2.1\Joel_Astegiano_Module03.deps.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\bin\Debug\netcoreapp2.1\Joel_Astegiano_Module03.runtimeconfig.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\bin\Debug\netcoreapp2.1\Joel_Astegiano_Module03.runtimeconfig.dev.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\bin\Debug\netcoreapp2.1\Joel_Astegiano_Module03.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\bin\Debug\netcoreapp2.1\Joel_Astegiano_Module03.pdb
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module03.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module03\Joel_Astegiano_Module03\Joel_Astegiano_Module03\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module03.pdb
