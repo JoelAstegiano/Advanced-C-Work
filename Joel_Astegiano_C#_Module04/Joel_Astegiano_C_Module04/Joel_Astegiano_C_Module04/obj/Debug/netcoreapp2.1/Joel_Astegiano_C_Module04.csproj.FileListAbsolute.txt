@@ -1,0 +1,11 @@
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.csprojAssemblyReference.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.csproj.CoreCompileInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.AssemblyInfoInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.AssemblyInfo.cs
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\bin\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.deps.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\bin\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.runtimeconfig.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\bin\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.runtimeconfig.dev.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\bin\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\bin\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.pdb
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module04\Joel_Astegiano_C_Module04\Joel_Astegiano_C_Module04\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module04.pdb
