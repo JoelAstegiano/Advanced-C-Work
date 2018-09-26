@@ -1,0 +1,11 @@
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\bin\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.deps.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\bin\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.runtimeconfig.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\bin\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.runtimeconfig.dev.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\bin\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\bin\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.pdb
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.csprojAssemblyReference.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.csproj.CoreCompileInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.AssemblyInfoInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.AssemblyInfo.cs
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module05\Joel_Astegiano_C_Module05\Joel_Astegiano_C_Module05\obj\Debug\netcoreapp2.1\Joel_Astegiano_C_Module05.pdb
