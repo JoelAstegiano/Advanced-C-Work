@@ -1,0 +1,11 @@
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\bin\Debug\netcoreapp2.1\Joel_Astegiano_Module06.deps.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\bin\Debug\netcoreapp2.1\Joel_Astegiano_Module06.runtimeconfig.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\bin\Debug\netcoreapp2.1\Joel_Astegiano_Module06.runtimeconfig.dev.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\bin\Debug\netcoreapp2.1\Joel_Astegiano_Module06.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\bin\Debug\netcoreapp2.1\Joel_Astegiano_Module06.pdb
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module06.csprojAssemblyReference.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module06.csproj.CoreCompileInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module06.AssemblyInfoInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module06.AssemblyInfo.cs
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module06.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module06\Joel_Astegiano_Module06\Joel_Astegiano_Module06\obj\Debug\netcoreapp2.1\Joel_Astegiano_Module06.pdb

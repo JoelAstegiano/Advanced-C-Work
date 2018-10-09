@@ -1,0 +1,11 @@
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\obj\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.csprojAssemblyReference.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\obj\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.csproj.CoreCompileInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\obj\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.AssemblyInfoInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\obj\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.AssemblyInfo.cs
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\bin\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.deps.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\bin\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.runtimeconfig.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\bin\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.runtimeconfig.dev.json
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\bin\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\bin\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.pdb
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\obj\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.dll
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_CS_Mod07\obj\Debug\netcoreapp2.1\Joel_Astegiano_CS_Mod07.pdb

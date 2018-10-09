@@ -1,0 +1,10 @@
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_WinForm_Mod07\bin\Debug\Joel_Astegiano_WinForm_Mod07.exe.config
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_WinForm_Mod07\bin\Debug\Joel_Astegiano_WinForm_Mod07.exe
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_WinForm_Mod07\bin\Debug\Joel_Astegiano_WinForm_Mod07.pdb
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_WinForm_Mod07\obj\Debug\Joel_Astegiano_WinForm_Mod07.csprojAssemblyReference.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_WinForm_Mod07\obj\Debug\Joel_Astegiano_WinForm_Mod07.Form1.resources
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_WinForm_Mod07\obj\Debug\Joel_Astegiano_WinForm_Mod07.Properties.Resources.resources
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_WinForm_Mod07\obj\Debug\Joel_Astegiano_WinForm_Mod07.csproj.GenerateResource.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_WinForm_Mod07\obj\Debug\Joel_Astegiano_WinForm_Mod07.csproj.CoreCompileInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_WinForm_Mod07\obj\Debug\Joel_Astegiano_WinForm_Mod07.exe
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module07\Joel_Astegiano_CS_Mod07\Joel_Astegiano_WinForm_Mod07\obj\Debug\Joel_Astegiano_WinForm_Mod07.pdb
