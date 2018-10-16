@@ -1,0 +1,7 @@
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module08\Joel_Astegiano_CS_Module08\Joel_Astegiano_CS_Module08\bin\Debug\Joel_Astegiano_CS_Module08.exe.config
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module08\Joel_Astegiano_CS_Module08\Joel_Astegiano_CS_Module08\bin\Debug\Joel_Astegiano_CS_Module08.exe
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module08\Joel_Astegiano_CS_Module08\Joel_Astegiano_CS_Module08\bin\Debug\Joel_Astegiano_CS_Module08.pdb
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module08\Joel_Astegiano_CS_Module08\Joel_Astegiano_CS_Module08\obj\Debug\Joel_Astegiano_CS_Module08.csprojAssemblyReference.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module08\Joel_Astegiano_CS_Module08\Joel_Astegiano_CS_Module08\obj\Debug\Joel_Astegiano_CS_Module08.csproj.CoreCompileInputs.cache
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module08\Joel_Astegiano_CS_Module08\Joel_Astegiano_CS_Module08\obj\Debug\Joel_Astegiano_CS_Module08.exe
+C:\Users\sirjo\Documents\GitHub\Advanced-C-Work\Joel_Astegiano_C#_Module08\Joel_Astegiano_CS_Module08\Joel_Astegiano_CS_Module08\obj\Debug\Joel_Astegiano_CS_Module08.pdb
