@@ -12,6 +12,9 @@ namespace Joel_Astegiano_CS_Mod07
             int a = 12;
             int b = 13;
             string result = delObj(a, b);
+            Sqr newsqr= new Sqr();
+            newsqr.thing(2);
+
             Console.WriteLine("The first number is {0} than the second number", result);
             Timer myTimer = new Timer(1000);
 
@@ -62,6 +65,11 @@ namespace Joel_Astegiano_CS_Mod07
             public double GetArea()
             {
                 return length * width;
+            }
+
+            public int thing(int a)
+            {
+                return a;
             }
 
         }
